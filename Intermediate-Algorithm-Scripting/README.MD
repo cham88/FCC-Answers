@@ -1,6 +1,7 @@
-## Intermediate Algorithm Scripting
+[toc]
+### Intermediate Algorithm Scripting
 
-- Sum All Numbers in a Range 
+####  Sum All Numbers in a Range 
 -  Diff Two Arrays
 - Roman Numeral Converter
 - Where art thou
