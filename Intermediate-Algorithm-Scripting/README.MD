@@ -1,7 +1,11 @@
-[toc]
-### Intermediate Algorithm Scripting
+---
+title: Intermediate Algorithm Scripting
+tags: 新建,模板,小书匠
+grammar_cjkRuby: true
+---
 
-####  Sum All Numbers in a Range 
+
+-  Sum All Numbers in a Range 
 -  Diff Two Arrays
 - Roman Numeral Converter
 - Where art thou
