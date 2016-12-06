@@ -1,8 +1,7 @@
 ## Convert HTML Entities
 
 
-![Convert HTML Entities][1]
-
+[![Convert HTML Entities][1]][4]
 **有帮助的资源：**  
 [RegExp][2]  	
 [HTML Entities][3]
