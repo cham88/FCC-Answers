@@ -1,6 +1,6 @@
 
 ### Intermediate Algorithm Scripting
-
+> 点击链接跳转到答案，不定时更新，欢迎提出不一样的思路和解法
 -  Sum All Numbers in a Range 
 -  Diff Two Arrays
 -  Roman Numeral Converter
