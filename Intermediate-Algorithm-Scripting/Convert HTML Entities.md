@@ -4,7 +4,7 @@
 ![Convert HTML Entities][1]
 
 **有帮助的资源：**
-	[RegExp][2]	
+[RegExp][2]  	
 [HTML Entities][3]
 
 ### 思路：
