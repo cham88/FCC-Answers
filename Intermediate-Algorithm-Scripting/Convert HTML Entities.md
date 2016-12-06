@@ -3,7 +3,7 @@
 
 ![Convert HTML Entities][1]
 
-**有帮助的资源：**
+**有帮助的资源：**  
 [RegExp][2]  	
 [HTML Entities][3]
 
