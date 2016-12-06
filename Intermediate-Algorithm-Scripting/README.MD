@@ -1,14 +1,10 @@
----
-title: Intermediate Algorithm Scripting
-tags: 新建,模板,小书匠
-grammar_cjkRuby: true
----
 
+### Intermediate Algorithm Scripting
 
 -  Sum All Numbers in a Range 
 -  Diff Two Arrays
-- Roman Numeral Converter
-- Where art thou
+-  Roman Numeral Converter
+-  Where art thou
 -  Search and Replace
 -  Pig Latin    *
 -  DNA Pairing    *
