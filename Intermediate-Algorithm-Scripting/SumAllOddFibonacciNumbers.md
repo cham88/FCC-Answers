@@ -17,6 +17,7 @@
 
 ### 代码
 > 代码可能有点冗长，但是思路很清晰，直来直去的，相信其他的解题方法也是按照这个思路来的
+
 ```javascript
 function sumFibs(num) {
   if(num<2){
@@ -48,10 +49,8 @@ function sumFibs(num) {
     returnSum += oddFibs[j];
   }//求和
   
-  return returnSum;
-  
+  return returnSum;  
 }
-
 ```
 
 
