@@ -44,10 +44,10 @@ function spinalCase(str) {
 function spinalCase(str) {
   // "It's such a fine line between stupid, and clever."
   // --David St. Hubbins
-  str = str.replace(/_/g," ")
-        .replace(/([A-Z])/g," $1")
-        .replace(/^\s/,"")
-        .replace(/\s+/g,"-")
+  str = str.replace(/_/g," ")//替换下划线为空格
+        .replace(/([A-Z])/g," $1")//大写字母前加空格
+        .replace(/^\s/,"")//删除开头的空格（前句添加的）
+        .replace(/\s+/g,"-")//将一个或多个空格替换成中横线
         .toLowerCase();
   return str;
 }
@@ -56,6 +56,7 @@ function spinalCase(str) {
 > 效果是实现了，但是代码中的`if`的判断条件，连用3个`&&`感觉不太好，但现在确实没想到更好的办法
 > 搜索了一下别人的解法，代码已经付在上面了[链接][5]；比我写的简洁多了，一行代码就搞定了……
 > 正则，感觉好难……
+> 有的时候，自己明知道有更好的办法，可就是没办法写出来；也只有用笨点的办法来解决了
 
 
   [1]: ./images/1481459267110.jpg "1481459267110.jpg"
