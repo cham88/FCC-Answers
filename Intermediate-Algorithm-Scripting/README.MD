@@ -1,6 +1,6 @@
 
 ### Intermediate Algorithm Scripting
-> 点击链接跳转到答案，不定时更新，欢迎提出不一样的思路和解法<br/>
+> 点击链接跳转到答案，不定时更新记录自己的思考，相信没有最好只有更好；祝我早上踏上web前端职业生涯，加油！<br/>
 
 - [x]  Sum All Numbers in a Range 
 - [x]  Diff Two Arrays
