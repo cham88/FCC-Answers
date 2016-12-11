@@ -13,8 +13,8 @@
 - [x]  Boo who
 - [x]  Sorted Union
 - [x]  [Convert HTML Entities][1]
-- [x]  Spinal Tap Case    *
-- [x]  [Sum All Odd Fibonacci Numbers    *][2]
+- [x]  [Spinal Tap Case    *][2]
+- [x]  [Sum All Odd Fibonacci Numbers    *][3]
 - [ ]  Sum All Primes    *
 - [ ]  Smallest Common Multiple    *
 - [ ]  Finders Keepers    *
@@ -26,4 +26,5 @@
 
 
   [1]: Convert%20HTML%20Entities.md
-  [2]: SumAllOddFibonacciNumbers.md
+  [2]: SpinalTapCase.md
+  [3]: SumAllOddFibonacciNumbers.md
