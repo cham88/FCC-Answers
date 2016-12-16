@@ -17,8 +17,8 @@
 - [x]  [Sum All Odd Fibonacci Numbers    *][3]
 - [x]  Sum All Primes    *
 - [x]  Smallest Common Multiple    *
-- [x]  Finders Keepers    *
-- [x]  [Drop it    *][4]
+- [x]  [Finders Keepers    *][4]
+- [x]  [Drop it    *][5]
 - [ ]  Steamroller    *
 - [ ]  Binary Agents    *
 - [ ]  Everything Be True    *
@@ -28,4 +28,5 @@
   [1]: Convert%20HTML%20Entities.md
   [2]: SpinalTapCase.md
   [3]: SumAllOddFibonacciNumbers.md
-  [4]: DropIt.md
+  [4]: FindersKeepers.md
+  [5]: DropIt.md
