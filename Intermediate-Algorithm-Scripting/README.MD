@@ -15,10 +15,10 @@
 - [x]  [Convert HTML Entities][1]
 - [x]  [Spinal Tap Case    *][2]
 - [x]  [Sum All Odd Fibonacci Numbers    *][3]
-- [ ]  Sum All Primes    *
-- [ ]  Smallest Common Multiple    *
-- [ ]  Finders Keepers    *
-- [ ]  Drop it    *
+- [x]  Sum All Primes    *
+- [x]  Smallest Common Multiple    *
+- [x]  Finders Keepers    *
+- [x]  [Drop it    *][4]
 - [ ]  Steamroller    *
 - [ ]  Binary Agents    *
 - [ ]  Everything Be True    *
@@ -28,3 +28,4 @@
   [1]: Convert%20HTML%20Entities.md
   [2]: SpinalTapCase.md
   [3]: SumAllOddFibonacciNumbers.md
+  [4]: DropIt.md
