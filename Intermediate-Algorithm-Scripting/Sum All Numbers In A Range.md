@@ -37,6 +37,26 @@ function sumAll(arr) {
   return result;
 }
 
+// 使用公式
+function sumAll(arr){
+	return (arr[0]+arr[1])*(Math.abs(arr[0]-arr[1])+1)/2
+}
+
+// 使用reduce
+function sumAll(arr) {
+   var max = Math.max(arr[0],arr[1]),
+       min = Math.min(arr[0],arr[1]);
+  
+  var allNum = [];
+  
+  for(var i=min;i<=max;i++){
+    allNum.push(i);
+  }
+  
+  return allNum.reduce(function(a,b,index,arr){return a+b;});
+
+}
+
 ```
 
 
