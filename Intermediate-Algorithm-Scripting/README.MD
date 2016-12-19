@@ -7,8 +7,8 @@
 - [x]  Roman Numeral Converter
 - [x]  Where art thou
 - [x]  Search and Replace
-- [ ]  Pig Latin    *
-- [ ]  DNA Pairing    *
+- [x]  Pig Latin    *
+- [x]  DNA Pairing    *
 - [x]  Missing letters
 - [x]  Boo who
 - [x]  Sorted Union
@@ -19,10 +19,10 @@
 - [x]  Smallest Common Multiple    *
 - [x]  [Finders Keepers    *][4]
 - [x]  [Drop it    *][5]
-- [ ]  Steamroller    *
-- [ ]  Binary Agents    *
-- [ ]  Everything Be True    *
-- [ ]  Arguments Optional    *
+- [x]  Steamroller    *
+- [x]  Binary Agents    *
+- [x]  Everything Be True    *
+- [x]  Arguments Optional    *
 
 
   [1]: Convert%20HTML%20Entities.md
