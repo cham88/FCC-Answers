@@ -10,9 +10,9 @@
 - [ ]  [Advanced Front End Development Projects][6]
 
 
-  [1]: Advanced%20Front%20End%20Development%20Projects/README.MD
+  [1]: Basic%20Front%20End%20Development%20Projects/README.MD
   [2]: Basic%20Algorithm%20Scripting/README.MD
   [3]: Intermediate%20Front%20End%20Development%20Projects/README.MD
   [4]: Intermediate-Algorithm-Scripting/README.MD
   [5]: Advanced%20Algorithm%20Scripting/README.MD
-  [6]: Advanced%20Algorithm%20Scripting/README.MD
+  [6]: Advanced%20Front%20End%20Development%20Projects/README.MD
