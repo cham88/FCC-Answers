@@ -2,17 +2,12 @@
 
 > 目录<br/>
 
--[ ] [Basic Front End Development Projects][1]
-
--[ ] [Basic Algorithm Scripting][2]
-
--[ ] [Intermediate Front End Development Projects][3]
-
--[ ] [Intermediate Algorithm Scripting][4]
-
--[ ] [Advanced Algorithm Scripting][5]
-
--[ ] [Advanced Front End Development Projects][6]
+- [ ]  [Basic Front End Development Projects][1]
+- [X]  [Basic Algorithm Scripting][2]
+- [ ]  [Intermediate Front End Development Projects][3]
+- [X]  [Intermediate Algorithm Scripting][4]
+- [ ]  [Advanced Algorithm Scripting][5]
+- [ ]  [Advanced Front End Development Projects][6]
 
 
   [1]: Advanced%20Front%20End%20Development%20Projects/README.MD
